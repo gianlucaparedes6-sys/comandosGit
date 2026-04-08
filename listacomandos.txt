@@ -1,1 +1,2 @@
 git clone: <Sirve para poder clonar el repositorio que se encuentra en github o la nuve>
+git commit: <Sirve para darle un mensaje descriptivo>
