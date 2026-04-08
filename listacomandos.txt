@@ -1,2 +1,5 @@
 git clone: <Sirve para poder clonar el repositorio que se encuentra en github o la nuve>
 git commit: <Sirve para darle un mensaje descriptivo>
+git push: <Sirve para subir el archivo>
+git status: <Sirve para ver el estado del archivo>
+git add: <Sirve para que el archivo este tomado en cuenta se encuentra en staging area>
